@@ -17,6 +17,7 @@ d+0为全年当天到账(包含休日，节假日);
 * 身份证号码验证查询 https://shenfen.supfree.net/
 * [根据银行卡号码获取银行卡归属行以及logo图标](https://blog.csdn.net/qq_28268507/article/details/68941754) 
 * 银行卡真实性验证 https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?_input_charset=utf-8&cardNo=6217002430035835629&cardBinCheck=true
+* 根据银行缩写单词获取该行logo https://apimg.alipay.com/combo.png?d=cashier&t=ABC
 
 ## 国外的支付工具
 * [stripe]( https://stripe.com/hk)
