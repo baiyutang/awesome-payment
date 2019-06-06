@@ -10,6 +10,7 @@ d+0为全年当天到账(包含休日，节假日);
 ```
 ## 渠道
 * [蚂蚁金服开放平台](https://open.alipay.com/platform/home.htm)
+* [微信支付开发文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)
 ## 工具
 * [ssl工具及各类加解密在线算法](http://www.ssleye.com/)
 * RSA私钥及公钥生成工具： [使用支付宝提供的一键生成工具](https://docs.open.alipay.com/291/105971)
@@ -28,3 +29,6 @@ d+0为全年当天到账(包含休日，节假日);
 * [Exrick/xpay](https://github.com/Exrick/xpay)XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 
 * [phoenixg/omnipay-pingpp](https://github.com/phoenixg/omnipay-pingpp)一个聚合了支付宝（APP、Wap、PC、即时到账、扫码、企业付款），微信（APP、公众号、红包）， 银联网关、银联企业网银、Apple Pay、QQ 钱包、易宝支付、百度钱包、京东支付、京东白条、招行一网通、分期支付等国内主流支付渠道的聚合支付网关
 * [helei112g/payment](https://github.com/helei112g/payment)Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷
+
+## 支付平台架构
+* [我对支付平台架构设计的一些思考](https://juejin.im/post/5cf69f1c6fb9a07f08708372)
