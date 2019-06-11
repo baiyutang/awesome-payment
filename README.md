@@ -53,3 +53,14 @@ d+0为全年当天到账(包含休日，节假日);
 
 ## 书籍
 * [支付大讲堂 中国支付清协会培训课程精选系列](https://book.douban.com/subject/27080419/)
+* [移动支付用户体验设计](https://book.douban.com/subject/26835739/)
+* [移动支付理论与实务](https://book.douban.com/subject/26942242/)
+* [深度支付](https://book.douban.com/subject/30411023/)
+* [移动金融:支付革命](https://book.douban.com/subject/26948021/)
+* [互联网金融弄潮儿 : 第三方支付](https://book.douban.com/subject/27024322/)
+* [蚂蚁金服 : 从支付宝到新金融生态圈](https://book.douban.com/subject/27085867/)
+* [支付宝体验设计精髓](https://book.douban.com/subject/26910220/)
+
+
+
+
