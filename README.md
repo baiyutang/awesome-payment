@@ -38,6 +38,7 @@ d+0为全年当天到账(包含休日，节假日);
 
 ## 国外的支付工具
 * [stripe]( https://stripe.com/hk)
+* 全球支付工具列表参考>> https://www.shopify.com/payment-gateways
 
 ## 聚合支付包（库）
 * [Javen205/IJPay](https://github.com/Javen205/IJPay) 🔥 IJPay 让支付触手可及，封装了微信支付、支付宝支付、银联支付常用的支付方式以及各种常用的接口
