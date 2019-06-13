@@ -27,6 +27,7 @@ d+0为全年当天到账(包含休日，节假日);
 ## 渠道
 * [蚂蚁金服开放平台](https://open.alipay.com/platform/home.htm)
 * [微信支付开发文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)
+* [微信开放社区-微信支付](https://developers.weixin.qq.com/community/pay)
 ## 工具
 * [ssl工具及各类加解密在线算法](http://www.ssleye.com/)
 * RSA私钥及公钥生成工具： [使用支付宝提供的一键生成工具](https://docs.open.alipay.com/291/105971)
