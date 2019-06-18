@@ -10,7 +10,7 @@ awesome payment
 
 ### MCC行业编码
 MCC，全称Merchant Category Code。即商户行业代码，代表商户所在行业。由中国银联统一设置并由各家支付机构及银行共同使用的分类编码，和其他特定信息一起组成了商家POS机的商户编号
-* [mcc码查询-银联开放平台](https://open.unionpay.com/tjweb/api/detail?apiSvcId=514)
+* [MCC查询-中国银联开放平台](https://open.unionpay.com/tjweb/api/detail?apiSvcId=514)
 ### 结算类型
 * 对公：公司名义与第三方支付公司签约，提供公司的对公银行账户
 * 对私：个人与第三方支付公司签约，提供商户法人或指定人的个人银行账户
@@ -31,7 +31,7 @@ d+0为全年当天到账(包含休日，节假日);
 * [蚂蚁金服开放平台](https://open.alipay.com/platform/home.htm)
 * [微信支付开发文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)
 * [微信开放社区-微信支付](https://developers.weixin.qq.com/community/pay)
-* [银联开放平台](https://open.unionpay.com/tjweb/index)
+* [中国银联开放平台](https://open.unionpay.com/tjweb/index)
 ## 工具
 * [ssl工具及各类加解密在线算法](http://www.ssleye.com/)
 * RSA私钥及公钥生成工具： [使用支付宝提供的一键生成工具](https://docs.open.alipay.com/291/105971)
