@@ -26,7 +26,10 @@ d+0为全年当天到账(包含休日，节假日);
 ```
 ### 代付
 商户系统资金代付
-
+### 用户信息
+* [openid](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=4_4)是微信用户在公众号appid下的唯一用户标识（appid不同，则获取到的openid就不同），可用于永久标记一个用户，同时也是微信JSAPI支付的必传参数
+* [buyer_id](https://docs.open.alipay.com/53/104114)
+* userId
 ## 渠道
 * [蚂蚁金服开放平台](https://open.alipay.com/platform/home.htm)
 * [微信支付开发文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)
