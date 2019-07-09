@@ -50,6 +50,7 @@ d+0为全年当天到账(包含休日，节假日);
 ## 工具
 * [ssl工具及各类加解密在线算法--开始收费，不推荐](http://www.ssleye.com/)
 * [RSA公钥和私钥的生成以及PKCS#1与PKCE#8格式的转换](https://www.jianshu.com/p/e51fa37b3a36)
+* [各类加解密工具](http://tool.chacuo.net/cryptrsapkcs1pkcs8)
 * RSA私钥及公钥生成工具： [使用支付宝提供的一键生成工具](https://docs.open.alipay.com/291/105971)
 * 银联号查询 http://www.5cm.cn/bank/ 
 * 身份证号码验证查询 https://shenfen.supfree.net/
