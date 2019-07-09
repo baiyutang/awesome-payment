@@ -37,11 +37,13 @@ d+0为全年当天到账(包含休日，节假日);
 * [openid](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=4_4)是微信用户在公众号appid下的唯一用户标识（appid不同，则获取到的openid就不同），可用于永久标记一个用户，同时也是微信JSAPI支付的必传参数
 * [buyer_id](https://docs.open.alipay.com/53/104114)
 * userId
+
 ## 渠道
 * [蚂蚁金服开放平台](https://open.alipay.com/platform/home.htm)
 * [微信支付开发文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)
 * [微信开放社区-微信支付](https://developers.weixin.qq.com/community/pay)
 * [中国银联开放平台](https://open.unionpay.com/tjweb/index)
+
 ## 工具
 * [ssl工具及各类加解密在线算法](http://www.ssleye.com/)
 * RSA私钥及公钥生成工具： [使用支付宝提供的一键生成工具](https://docs.open.alipay.com/291/105971)
@@ -51,6 +53,7 @@ d+0为全年当天到账(包含休日，节假日);
 * 银行卡真实性验证 https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?_input_charset=utf-8&cardNo=6217002430035835629&cardBinCheck=true
 * 根据银行缩写单词获取该行logo https://apimg.alipay.com/combo.png?d=cashier&t=ABC
 * [中国银联开放平台提供的辅助工具集](https://open.unionpay.com/tjweb/support/doc/online/5)
+
 ## 国外的支付工具
 * [stripe]( https://stripe.com/hk)
 * 全球支付工具列表参考>> https://www.shopify.com/payment-gateways
@@ -65,12 +68,14 @@ d+0为全年当天到账(包含休日，节假日);
 
 ## 主页或博客
 * [出家如初成佛有余--曾经的第三方支付从业者，现在区块链从业者](https://www.yeeach.com/)
+
 ## 支付平台架构
 * [我对支付平台架构设计的一些思考](https://juejin.im/post/5cf69f1c6fb9a07f08708372)
 * [《58到家支付系统架构与实践》蔡敏.pdf](/src/《58到家支付系统架构与实践》蔡敏.pdf)
 * [刘恒-盒子科技聚合支付系统演进.pdf](/src/刘恒-盒子科技聚合支付系统演进.pdf)
 * [李胜军-美的支付架构演进.pdf](/src/李胜军-美的支付架构演进.pdf)
 * [支付平台架构设计评审核心要点与最佳实践.pdf](/src/支付平台架构设计评审核心要点与最佳实践.pdf)
+
 ## 书籍
 * [支付大讲堂 中国支付清协会培训课程精选系列](https://book.douban.com/subject/27080419/)
 * [移动支付用户体验设计](https://book.douban.com/subject/26835739/)
