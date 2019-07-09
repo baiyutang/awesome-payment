@@ -44,8 +44,12 @@ d+0为全年当天到账(包含休日，节假日);
 * [微信开放社区-微信支付](https://developers.weixin.qq.com/community/pay)
 * [中国银联开放平台](https://open.unionpay.com/tjweb/index)
 
+## 安全
+### 加解密
+* [主流数字证书都有哪些格式？](https://help.aliyun.com/knowledge_detail/42214.html?spm=a2c4g.11186623.2.15.2a0d3469KScK0V)
 ## 工具
-* [ssl工具及各类加解密在线算法](http://www.ssleye.com/)
+* [ssl工具及各类加解密在线算法--开始收费，不推荐](http://www.ssleye.com/)
+* [RSA公钥和私钥的生成以及PKCS#1与PKCE#8格式的转换](https://www.jianshu.com/p/e51fa37b3a36)
 * RSA私钥及公钥生成工具： [使用支付宝提供的一键生成工具](https://docs.open.alipay.com/291/105971)
 * 银联号查询 http://www.5cm.cn/bank/ 
 * 身份证号码验证查询 https://shenfen.supfree.net/
