@@ -80,7 +80,3 @@ d+0为全年当天到账(包含休日，节假日);
 * [互联网金融弄潮儿 : 第三方支付](https://book.douban.com/subject/27024322/)
 * [蚂蚁金服 : 从支付宝到新金融生态圈](https://book.douban.com/subject/27085867/)
 * [支付宝体验设计精髓](https://book.douban.com/subject/26910220/)
-
-
-
-
