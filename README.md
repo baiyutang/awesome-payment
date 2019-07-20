@@ -44,6 +44,9 @@ d+0为全年当天到账(包含休日，节假日);
 * [微信开放社区-微信支付](https://developers.weixin.qq.com/community/pay)
 * [中国银联开放平台](https://open.unionpay.com/tjweb/index)
 
+## 原则
+* 支付结果判断：明确成功才成功，明确失败就失败，状态未知为支付中
+
 ## 安全
 ### 加解密
 * [主流数字证书都有哪些格式？](https://help.aliyun.com/knowledge_detail/42214.html?spm=a2c4g.11186623.2.15.2a0d3469KScK0V)
