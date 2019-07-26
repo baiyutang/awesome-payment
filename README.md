@@ -62,8 +62,17 @@ d+0为全年当天到账(包含休日，节假日);
 * 根据银行缩写单词获取该行logo https://apimg.alipay.com/combo.png?d=cashier&t=ABC
 * [中国银联开放平台提供的辅助工具集](https://open.unionpay.com/tjweb/support/doc/online/5)
 
-## 国外的支付工具
+## 国外的支付平台工具
 * [stripe]( https://stripe.com/hk)
+* Paypal
+* Pefectmoney
+* Advcash
+* Webmoney
+* Okey
+* Fasapay
+* Tether
+* Bitcoin
+* Payeer
 * 全球支付工具列表参考>> https://www.shopify.com/payment-gateways
 
 ## 聚合支付包（库）
