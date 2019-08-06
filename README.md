@@ -61,7 +61,7 @@ d+0为全年当天到账(包含休日，节假日);
 * 银行卡真实性验证 https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?_input_charset=utf-8&cardNo=6217002430035835629&cardBinCheck=true
 * 根据银行缩写单词获取该行logo https://apimg.alipay.com/combo.png?d=cashier&t=ABC
 * [中国银联开放平台提供的辅助工具集](https://open.unionpay.com/tjweb/support/doc/online/5)
-
+* [微信支付API v3 Postman脚本使用指南](https://github.com/wechatpay-apiv3/wechatpay-postman-script)
 ## 国外的支付平台工具
 * [stripe]( https://stripe.com/hk)
 * Paypal
