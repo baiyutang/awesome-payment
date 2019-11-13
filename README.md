@@ -100,7 +100,9 @@ d+0为全年当天到账(包含休日，节假日);
 * [laravel-pay](https://github.com/yansongda/laravel-pay) 可能是我用过的最优雅的 Alipay 和 WeChat 的 laravel 支付扩展包了
 
 ## 主页或博客
-* [出家如初成佛有余--曾经的第三方支付从业者，现在区块链从业者](https://www.yeeach.com/)
+* [梁川博客：出家如初成佛有余--曾经的第三方支付从业者，现在区块链从业者](https://www.yeeach.com/)
+* [梁川知乎](https://www.zhihu.com/people/chuanliang/answers)
+* [接蒜君的微信公众号：jiesuanjun](https://mp.weixin.qq.com/mp/qrcode?scene=10000005&__biz=MzIxMTYyNjI0NA==&mid=2247483856&idx=1&sn=a68a1d66c9bd3015be82468b94418fa9)
 
 ## 支付平台架构
 * [我对支付平台架构设计的一些思考](https://juejin.im/post/5cf69f1c6fb9a07f08708372)
