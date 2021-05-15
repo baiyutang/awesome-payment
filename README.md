@@ -123,6 +123,7 @@ d+0为全年当天到账(包含休日，节假日);
 * [phoenixg/omnipay-pingpp](https://github.com/phoenixg/omnipay-pingpp)一个聚合了支付宝（APP、Wap、PC、即时到账、扫码、企业付款），微信（APP、公众号、红包）， 银联网关、银联企业网银、Apple Pay、QQ 钱包、易宝支付、百度钱包、京东支付、京东白条、招行一网通、分期支付等国内主流支付渠道的聚合支付网关
 * [helei112g/payment](https://github.com/helei112g/payment)Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷
 * [laravel-pay](https://github.com/yansongda/laravel-pay) 可能是我用过的最优雅的 Alipay 和 WeChat 的 laravel 支付扩展包了
+* [FastPay](https://github.com/limuyang2/FastPay)一个使用LiveData集成的微信、支付宝、银联支付的小巧库
 
 ## 主页或博客
 * [梁川博客：出家如初成佛有余--曾经的第三方支付从业者，现在区块链从业者](https://www.yeeach.com/)
