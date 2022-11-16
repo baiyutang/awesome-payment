@@ -73,6 +73,8 @@ d+0为全年当天到账(包含休日，节假日);
 * [微信支付开发文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)
 * [微信开放社区-微信支付](https://developers.weixin.qq.com/community/pay)
 * [中国银联开放平台](https://open.unionpay.com/tjweb/index)
+* [汇付天下](https://docs.adapay.tech/api/introduce.html)
+
 ## 跨境支付
 一点介绍[严查重罚跨境支付“无照驾驶”](https://mp.weixin.qq.com/s/Atk6Wmh7m1cOMd4KCDpCcg)
 [2018年第三方跨境支付行业研究报告](/src/2018年第三方跨境支付行业研究报告.pdf)
